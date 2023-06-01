@@ -1,2 +1,5 @@
 # Discord-Music-Bot
-A bot designed to play music within Discord voice channels
+A bot designed to play music within Discord voice channels.
+It allows users to play, pause, skip, and control the playback of music tracks from various sources, such as YouTube , SoundCloud and Spotify.
+
+Node.js and yarn are required to run it.
